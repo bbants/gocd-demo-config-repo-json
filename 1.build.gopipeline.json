@@ -4,7 +4,7 @@
   "group" : "demo",
   "materials": [
     {
-      "url": "https://github.com/arvindsv/gocd-demo-config-repo-code",
+      "url": "https://github.com/bbants/gocd-demo-config-repo-code.git",
       "type": "git"
     }
   ],
